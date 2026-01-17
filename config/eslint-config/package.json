@@ -4,9 +4,9 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./base": "./base.js",
-    "./next-js": "./next.js",
-    "./node": "./node.js"
+    "./base": "./base.cjs",
+    "./next-js": "./next.cjs",
+    "./node": "./node.cjs"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
